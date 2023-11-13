@@ -1,4 +1,4 @@
-# Wesley Soto - Software Engineer; Full-Stack, Machine Learning
+# Wesley Soto - Software Engineer; Automation, Full-Stack, Data Science, Machine Learning
 
 ## Summary
 
